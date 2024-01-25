@@ -1,0 +1,179 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '50254638411@s.whatsapp.net',
+    fromMe: false,
+    id: 'E5C3C5A32B74700463',
+    participant: undefined
+  },
+  messageTimestamp: 1706195789,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'buenas', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'buenas',
+  from: '50254638411'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ff2fd51f-327b-4482-9549-3a12f41ebb43',
+  keyword: 'key_a5d8cfc2-13f8-4fef-a3c9-9c674913cb9d',
+  answer: '🙌 Hola bienvenido a nuestra *CESG English Academy*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bf5703dd8f5528d9d0e13572bc784a11'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_925b7d45-b3bc-42c1-8213-292a320a5c95',
+  keyword: 'ans_ff2fd51f-327b-4482-9549-3a12f41ebb43',
+  answer: 'Escribe la palabra para ver la información de tu interes:\n' +
+    '👉 *Inscripciones* para ver info sobre nuestras inscripciones\n' +
+    '👉 *Cursos*  para informacion de los cursos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bb35fdd2356bbba76d2371faa60345fb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50254638411@s.whatsapp.net',
+    fromMe: false,
+    id: '6BF146785A0B78110A',
+    participant: undefined
+  },
+  messageTimestamp: 1706195793,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Cursos', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cursos',
+  from: '50254638411'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_70e190a3-1f15-4caf-b812-3a3fe5329c4c',
+  keyword: 'key_55ab5b91-987d-45c2-976a-5be4c8b3e923',
+  answer: '🚀 ¿Listo para aprender ingles en el 2024?\n' +
+    '[*B1*] Intermedio\n' +
+    '[*B2*] Intermedio-Alto.\n' +
+    '[*C1*] Avanzado \n' +
+    'Escribe el código del curso para ver más información...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9591e1d2822661f05eaba6d4ae4739c7'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cf6057d8-2eaa-4fb1-a855-adb344ffd20e',
+  keyword: 'ans_70e190a3-1f15-4caf-b812-3a3fe5329c4c',
+  answer: { buttons: [ [Object], [Object], [Object] ] },
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9c574254eed7813d2679f20d0c232a3e'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_71d23f70-cab6-4244-88ef-5f41fd593b3b',
+  keyword: 'ans_cf6057d8-2eaa-4fb1-a855-adb344ffd20e',
+  answer: 'Escribe *2* para continuar...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '05f49e15543cfcabeab0c0517a26652e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50254638411@s.whatsapp.net',
+    fromMe: false,
+    id: '548AF94517B6917A5B',
+    participant: undefined
+  },
+  messageTimestamp: 1706195801,
+  pushName: 'José',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '2', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '50254638411'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b05e637a-e224-4eaf-98f6-eaf912a61602',
+  keyword: 'key_e86ddc9f-145d-4c40-bc7d-418c0ba14bc6',
+  answer: '📄 Para continuar con el flujo, adquiere nuestro servicios de creación de chatbots...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '070ac384b65daa9a4d8f13948d91bd70'
+}
